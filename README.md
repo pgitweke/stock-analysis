@@ -4,7 +4,7 @@
 
 This project analyzes the total daily volume and annual return for 2017 and 2018 for green energy stocks as requested by Steve. 
 
-### Purpose -2 
+### Purpose 
 
 The goal of this project is to use visual basics application (VBA) to refactor the current green energy stocks code. The data is looped through one time to collect the same information at a short period of time using the VBA timer. The outcome will help Steve diversify his parent’s funds to invest in alternative energy. 
 
